@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\dm.lib.indexdocument.core\dm.lib.indexdocument.Core.csproj" />
+    <ProjectReference Include="..\dm.lib.indexdocument.dataaccess\dm.lib.indexdocument.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
